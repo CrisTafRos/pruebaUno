@@ -13,6 +13,8 @@
 		563AD1372331870F00A9A28B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 563AD1362331870F00A9A28B /* Assets.xcassets */; };
 		563AD13A2331870F00A9A28B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 563AD1382331870F00A9A28B /* LaunchScreen.storyboard */; };
 		563AD14223318D0C00A9A28B /* Onboarding.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 563AD14123318D0C00A9A28B /* Onboarding.storyboard */; };
+		563AD144233191AD00A9A28B /* OnboardingPrimeraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563AD143233191AD00A9A28B /* OnboardingPrimeraViewController.swift */; };
+		563AD146233191DE00A9A28B /* OnboardingSegundaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563AD145233191DE00A9A28B /* OnboardingSegundaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		563AD1392331870F00A9A28B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		563AD13B2331870F00A9A28B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		563AD14123318D0C00A9A28B /* Onboarding.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Onboarding.storyboard; sourceTree = "<group>"; };
+		563AD143233191AD00A9A28B /* OnboardingPrimeraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPrimeraViewController.swift; sourceTree = "<group>"; };
+		563AD145233191DE00A9A28B /* OnboardingSegundaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingSegundaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				563AD1382331870F00A9A28B /* LaunchScreen.storyboard */,
 				563AD13B2331870F00A9A28B /* Info.plist */,
 				563AD14123318D0C00A9A28B /* Onboarding.storyboard */,
+				563AD143233191AD00A9A28B /* OnboardingPrimeraViewController.swift */,
+				563AD145233191DE00A9A28B /* OnboardingSegundaViewController.swift */,
 			);
 			path = prueba;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				563AD144233191AD00A9A28B /* OnboardingPrimeraViewController.swift in Sources */,
+				563AD146233191DE00A9A28B /* OnboardingSegundaViewController.swift in Sources */,
 				563AD1322331870E00A9A28B /* ViewController.swift in Sources */,
 				563AD1302331870E00A9A28B /* AppDelegate.swift in Sources */,
 			);
